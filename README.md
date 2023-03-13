@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a french student who loves coding.
-Currently working on https://github.com/Ashokas/EkoleDirekte
+Currently working on https://github.com/Ashokaas/EkoleDirekte
 I love learning new languages,studying networks and data bases.
